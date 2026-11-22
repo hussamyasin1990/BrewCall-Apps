@@ -1,22 +1,20 @@
-# BrewCall Android apps
+# BrewCall Android apps — version 1.0.0
 
-Download and install the BrewCall apps from the links below. No GitHub account is required.
+Latest builds of the BrewCall Kitchen and Supervisor Android apps. Download on an Android phone (Android 8.0 or later); no GitHub account is required.
 
-| App | Download | Version |
+| App | Version | Download |
 | --- | --- | --- |
-| BrewCall Kitchen (Tea Boy) | [BrewCall-Kitchen.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Kitchen.apk) | 2.9.0 |
-| BrewCall Supervisor | [BrewCall-Supervisor.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Supervisor.apk) | 1.1.0 |
+| BrewCall Kitchen | 1.0.0 | [BrewCall-Kitchen-1.0.0.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.0/BrewCall-Kitchen-1.0.0.apk) |
+| BrewCall Supervisor | 1.0.0 | [BrewCall-Supervisor-1.0.0.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.0/BrewCall-Supervisor-1.0.0.apk) |
 
 ## Install
 
-1. Open the appropriate download link on an Android phone running Android 8.0 or later.
-2. Open the downloaded APK and allow installation from your browser when Android asks.
-3. Sign in with the Kitchen or Supervisor credentials provided by your BrewCall administrator.
+1. Open the download link on the phone.
+2. Open the downloaded APK and allow installation from your browser if Android asks.
+3. Sign in with the credentials provided by your BrewCall administrator.
 
-These are **BrewCall** apps, not BrewCallCo apps. The Kitchen and Supervisor apps can be installed together.
+Version 1.0.0 installs as an update over any earlier BrewCall Kitchen or Supervisor app, so there's no need to uninstall first. The two apps can be installed together.
 
-The APKs are signed debug builds for direct installation, not Google Play releases. Updates require the same app ID and signing certificate as the installed app. If Android rejects an update, contact your administrator before removing an installed app.
+SHA-256 checksums: [SHA256SUMS.txt](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.0/SHA256SUMS.txt)
 
-[All versions and SHA-256 checksums](https://github.com/hussamyasin1990/BrewCall-Apps/releases)
-
-This public repository distributes APKs and installation instructions only. Application source code, signing keys, account credentials, and build caches are not included.
+This repository distributes APKs only. Application source code, signing keys and credentials are not included.
