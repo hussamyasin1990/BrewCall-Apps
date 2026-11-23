@@ -4,8 +4,8 @@ Latest builds of the BrewCall Kitchen and Supervisor Android apps. Download on a
 
 | App | Version | Download |
 | --- | --- | --- |
-| BrewCall Kitchen | 1.0.1 | [BrewCall-Kitchen-1.0.1.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.1/BrewCall-Kitchen-1.0.1.apk) |
-| Kitchen supervisor | 1.0.2 | [BrewCall-Supervisor-1.0.2.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.2/BrewCall-Supervisor-1.0.2.apk) |
+| BrewCall Kitchen | 1.0.1 | [BrewCall-Kitchen.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Kitchen.apk) |
+| Kitchen supervisor | 1.0.2 | [BrewCall-Supervisor.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Supervisor.apk) |
 
 ## Install
 
@@ -15,6 +15,8 @@ Latest builds of the BrewCall Kitchen and Supervisor Android apps. Download on a
 
 These versions install as updates over earlier BrewCall Kitchen or Supervisor apps signed with the same key, so there's no need to uninstall first. The two apps can be installed together.
 
-SHA-256 checksums: [Kitchen 1.0.1](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.1/SHA256SUMS.txt) | [Supervisor 1.0.2](https://github.com/hussamyasin1990/BrewCall-Apps/releases/download/v1.0.2/SHA256SUMS.txt)
+SHA-256 checksums: [latest release](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/SHA256SUMS.txt)
+
+The older `BrewCall-Supervisor-1.0.1.apk` link now downloads Supervisor 1.0.2. Its filename is retained so existing links continue to work.
 
 This repository distributes APKs only. Application source code, signing keys and credentials are not included.
