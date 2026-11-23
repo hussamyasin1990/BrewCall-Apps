@@ -4,7 +4,7 @@ Latest builds of the BrewCall Kitchen and Supervisor Android apps. Download on a
 
 | App | Version | Download |
 | --- | --- | --- |
-| BrewCall Kitchen | 1.0.1 | [BrewCall-Kitchen.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Kitchen.apk) |
+| BrewCall Kitchen | 1.0.2 | [BrewCall-Kitchen.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Kitchen.apk) |
 | Kitchen supervisor | 1.0.2 | [BrewCall-Supervisor.apk](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/BrewCall-Supervisor.apk) |
 
 ## Install
@@ -17,6 +17,6 @@ These versions install as updates over earlier BrewCall Kitchen or Supervisor ap
 
 SHA-256 checksums: [latest release](https://github.com/hussamyasin1990/BrewCall-Apps/releases/latest/download/SHA256SUMS.txt)
 
-The older `BrewCall-Supervisor-1.0.1.apk` link now downloads Supervisor 1.0.2. Its filename is retained so existing links continue to work.
+The older `BrewCall-Kitchen-1.0.1.apk` and `BrewCall-Supervisor-1.0.1.apk` links now download the respective 1.0.2 apps. Their filenames are retained so existing links continue to work.
 
 This repository distributes APKs only. Application source code, signing keys and credentials are not included.
